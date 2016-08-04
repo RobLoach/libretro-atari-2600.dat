@@ -1,0 +1,23 @@
+{
+  "name": "libretro-atari-2600.dat",
+  "version": "0.0.1",
+  "title": "Atari - 2600",
+  "description": "Atari 2600 DAT for libretro",
+  "main": "index.js",
+  "homepage": "http://github.com/robloach/libretro-atari-2600.dat",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Rob Loach (http://robloach.net)",
+  "contributors": [
+    {
+      "name": "ROM Hunter"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.1",
+    "sort-object": "^3.0.2",
+    "xml2js": "^0.4.17"
+  }
+}
